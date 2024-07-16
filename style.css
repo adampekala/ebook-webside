@@ -7,6 +7,11 @@
   color: var(--bs-dark);
 }
 
+.navbar-sticky {
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
 .header {
   background-image: url(../images/header-background.jpg);
   background-position: center center;
