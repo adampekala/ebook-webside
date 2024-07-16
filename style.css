@@ -1,0 +1,15 @@
+* {
+  --color-primary-dark: rgb(193, 103, 239);
+  --color-primary-light: rgb(193, 125, 239);
+}
+
+.navbar-nav .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
+
+.header {
+  background-image: url(../images/header-background.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
