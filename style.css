@@ -7,27 +7,27 @@
   color: var(--color-primary-dark);
 }
 
-.btn-primary {
+.btn-prim {
   background-color: var(--color-primary-dark);
   border-color: var(--color-primary-dark);
   border-radius: 50px;
 }
 
-.btn-primary:link {
+.btn-prim:link {
   background-color: var(--color-primary-light);
   border-color: var(--color-primary-light);
 }
-.btn-primary:hover {
+.btn-prim:hover {
   background-color: var(--color-primary-light);
   border-color: var(--color-primary-light);
 }
-.btn-primary:active {
+.btn-prim:active {
   background-color: var(--color-primary-dark);
   border-color: var(--color-primary-dark);
   outline: none;
 }
 
-.btn-primary:focus {
+.btn-prim:focus {
   background-color: var(--color-primary-dark);
   border-color: var(--color-primary-dark);
   box-shadow: none;
@@ -35,7 +35,7 @@
   outline: none;
 }
 
-.btn-primary:active:focus {
+.btn-prim:active:focus {
   background-color: var(--color-primary-dark);
   border-color: var(--color-primary-dark);
   box-shadow: none;
@@ -43,7 +43,7 @@
   outline: none;
 }
 
-.btn-primary:visited {
+.btn-prim:visited {
   outline: none;
 }
 
