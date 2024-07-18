@@ -3,6 +3,12 @@
   --color-primary-light: rgb(193, 125, 239);
 }
 
+.text-prim {
+  color: var(--color-primary-dark);
+}
+
+
+
 .navbar-nav .btn-outline-light:hover {
   color: var(--bs-dark);
 }
